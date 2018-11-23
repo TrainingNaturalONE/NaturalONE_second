@@ -9,4 +9,5 @@
 write 'this is the f1 program'
 write 'a new line'
 write 'third test'
+write 'fourth test'
 END
