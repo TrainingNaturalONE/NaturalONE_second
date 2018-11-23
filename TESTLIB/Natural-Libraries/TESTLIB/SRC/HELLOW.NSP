@@ -7,5 +7,9 @@
 /** :author Training
 /* TODO Enter your code here
 write 'hello new master and feature1 world'
+<<<<<<< HEAD
 write 'second write from within naturalone'
+=======
+write 'this is a second statement'
+>>>>>>> branch 'master' of https://github.com/TrainingNaturalONE/natural-initial-demo-project
 END
