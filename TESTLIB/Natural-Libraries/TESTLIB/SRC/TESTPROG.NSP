@@ -9,4 +9,5 @@
 write 'hello my master world'
 write 'still no conflict'
 write 'again no conflict'
+write 'und wieder kein konflikt'
 END
