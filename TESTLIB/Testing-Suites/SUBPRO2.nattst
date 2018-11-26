@@ -22,7 +22,7 @@
       <string>val2</string>
      </void>
      <void property="value">
-      <string>5</string>
+      <string>4</string>
      </void>
     </object>
    </void>
@@ -46,7 +46,7 @@
       <string>val1</string>
      </void>
      <void property="value">
-      <string>4</string>
+      <string>5</string>
      </void>
     </object>
    </void>
