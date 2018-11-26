@@ -1,0 +1,19 @@
+* >Natural Source Header 000000
+* :Mode S
+* :CP
+* <Natural Source Header
+/** New Program CALLSUBP.
+/**
+/** :author Training
+/* TODO Enter your code here
+define data local
+/*( imported data fields from Subprogram SUBPRO
+1 val1 (N5)  init<1>
+1 val2 (N5)  init<1>
+1 result (N10) 
+1 operator (A1)init<'+'>
+/*) imported data fields from Subprogram SUBPRO
+end-define
+CALLNAT "SUBPRO" val1 val2 result operator
+write result
+END
