@@ -2,7 +2,7 @@
 <project default="default" name="Natural Unit Tests">
   <target name="init">
     <property name="broker.environmentID" value="local Natural runtime" />
-    <property name="test.dir" value="C:/Training/initial_demo_git/natural-initial-demo-project/TESTLIB" />
+    <property name="test.dir" value=" C:\Program Files (x86)\Jenkins\workspace\HelloWorld Deployment\TESTLIB\Testing-History" />
     <property name="NaturalTestingJunitLogger.file" value="log.xml" />
   </target>
   <target depends="init" name="default">

@@ -1,0 +1,31 @@
+<UnitTestHistoryRoot id="1">
+  <children id="2">
+    <FileBasedUnitTestHistoryItem id="3">
+      <testName>SUBPRO.nattst</testName>
+      <state id="4" status="PASSED"/>
+      <startTimeStamp id="5">2018-11-26 15:02:21.743 UTC</startTimeStamp>
+      <endTimeStamp id="6">2018-11-26 15:02:22.616 UTC</endTimeStamp>
+      <connection>local Natural runtime</connection>
+      <userID>DAEITRAIN30520$</userID>
+      <path>C:\Training\initial_demo_git\natural-initial-demo-project\TESTLIB\Testing-Suites\SUBPRO.nattst</path>
+    </FileBasedUnitTestHistoryItem>
+    <FileBasedUnitTestHistoryItem id="7">
+      <testName>SUBPRO2.nattst</testName>
+      <state id="8" status="PASSED"/>
+      <startTimeStamp id="9">2018-11-26 15:02:22.616 UTC</startTimeStamp>
+      <endTimeStamp id="10">2018-11-26 15:02:23.116 UTC</endTimeStamp>
+      <connection>local Natural runtime</connection>
+      <userID>DAEITRAIN30520$</userID>
+      <path>C:\Training\initial_demo_git\natural-initial-demo-project\TESTLIB\Testing-Suites\SUBPRO2.nattst</path>
+    </FileBasedUnitTestHistoryItem>
+    <FileBasedUnitTestHistoryItem id="11">
+      <testName>SUBPRO3.nattst</testName>
+      <state id="12" status="PASSED"/>
+      <startTimeStamp id="13">2018-11-26 15:02:23.116 UTC</startTimeStamp>
+      <endTimeStamp id="14">2018-11-26 15:02:23.396 UTC</endTimeStamp>
+      <connection>local Natural runtime</connection>
+      <userID>DAEITRAIN30520$</userID>
+      <path>C:\Training\initial_demo_git\natural-initial-demo-project\TESTLIB\Testing-Suites\SUBPRO3.nattst</path>
+    </FileBasedUnitTestHistoryItem>
+  </children>
+</UnitTestHistoryRoot>
