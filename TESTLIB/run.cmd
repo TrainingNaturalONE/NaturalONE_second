@@ -31,8 +31,8 @@ IF "%buildfile%"=="" (
 :: The Ant listener can be used when a Junit-like report format of the Testing output is required.
 :: The file name of the listener output can be specified via the "NaturalTestingJunitLogger.file"
 :: property in the build.xml file. Default is "log.xml". Uncomment if required.
-set listener=
-:: set listener=-listener com.softwareag.naturalone.gen.nbs.eclipse.ant.NaturalTestingJunitLogger
+:: set listener=
+set listener=-listener com.softwareag.naturalone.gen.nbs.eclipse.ant.NaturalTestingJunitLogger
 
 :: parameters needed for debugging. This is copied from process explorer and the debug version on Eclipse.
 set additional=
