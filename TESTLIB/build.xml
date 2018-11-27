@@ -3,7 +3,7 @@
   <target name="init">
     <property name="broker.environmentID" value="local Natural runtime" />
     <property name="test.dir" value="C:/Training/initial_demo_git/natural-initial-demo-project/TESTLIB" />
-    <property name="NaturalTestingJunitLogger.file" value="TESTLIB/Testing-History/uschilog.xml" />
+    <property name="NaturalTestingJunitLogger.file" value="TESTLIB/log.xml" />
   </target>
   <target depends="init" name="default">
     <!-- Change logtests to "true" if you want test history to be saved -->
