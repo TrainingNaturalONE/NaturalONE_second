@@ -1,0 +1,55 @@
+<UnitTestHistoryRoot id="1">
+  <children id="2">
+    <FileBasedUnitTestHistoryItem id="3">
+      <testName>SUBPRO.nattst</testName>
+      <state id="4" status="PASSED"/>
+      <startTimeStamp id="5">2018-11-27 09:40:29.789 UTC</startTimeStamp>
+      <endTimeStamp id="6">2018-11-27 09:40:31.68 UTC</endTimeStamp>
+      <connection>local Natural runtime</connection>
+      <userID>DAEITRAIN30520$</userID>
+      <path>C:\Training\initial_demo_git\natural-initial-demo-project\TESTLIB\Testing-Suites\SUBPRO.nattst</path>
+    </FileBasedUnitTestHistoryItem>
+    <FileBasedUnitTestHistoryItem id="7">
+      <testName>SUBPRO2.nattst</testName>
+      <state id="8" status="PASSED"/>
+      <startTimeStamp id="9">2018-11-27 09:40:31.68 UTC</startTimeStamp>
+      <endTimeStamp id="10">2018-11-27 09:40:31.333 UTC</endTimeStamp>
+      <connection>local Natural runtime</connection>
+      <userID>DAEITRAIN30520$</userID>
+      <path>C:\Training\initial_demo_git\natural-initial-demo-project\TESTLIB\Testing-Suites\SUBPRO2.nattst</path>
+    </FileBasedUnitTestHistoryItem>
+    <FileBasedUnitTestHistoryItem id="11">
+      <testName>SUBPRO3.nattst</testName>
+      <state id="12" status="PASSED"/>
+      <startTimeStamp id="13">2018-11-27 09:40:31.333 UTC</startTimeStamp>
+      <endTimeStamp id="14">2018-11-27 09:40:31.599 UTC</endTimeStamp>
+      <connection>local Natural runtime</connection>
+      <userID>DAEITRAIN30520$</userID>
+      <path>C:\Training\initial_demo_git\natural-initial-demo-project\TESTLIB\Testing-Suites\SUBPRO3.nattst</path>
+    </FileBasedUnitTestHistoryItem>
+    <FileBasedUnitTestHistoryItem id="15">
+      <testName>SUBPRO4.nattst</testName>
+      <state id="16" status="FAILED">
+        <errors id="17">
+          <com.softwareag.naturalone.gen.testing.eclipse.external.ui.editors.unittester.framework.ValidationError id="18">
+            <message>Validation failed: Field result Expected: &apos;7&apos; Actual: &apos;9&apos;</message>
+          </com.softwareag.naturalone.gen.testing.eclipse.external.ui.editors.unittester.framework.ValidationError>
+        </errors>
+      </state>
+      <startTimeStamp id="19">2018-11-27 09:40:31.599 UTC</startTimeStamp>
+      <endTimeStamp id="20">2018-11-27 09:40:31.926 UTC</endTimeStamp>
+      <connection>local Natural runtime</connection>
+      <userID>DAEITRAIN30520$</userID>
+      <path>C:\Training\initial_demo_git\natural-initial-demo-project\TESTLIB\Testing-Suites\SUBPRO4.nattst</path>
+    </FileBasedUnitTestHistoryItem>
+    <FileBasedUnitTestHistoryItem id="21">
+      <testName>SUBPRO5.nattst</testName>
+      <state id="22" status="PASSED"/>
+      <startTimeStamp id="23">2018-11-27 09:40:31.926 UTC</startTimeStamp>
+      <endTimeStamp id="24">2018-11-27 09:40:32.113 UTC</endTimeStamp>
+      <connection>local Natural runtime</connection>
+      <userID>DAEITRAIN30520$</userID>
+      <path>C:\Training\initial_demo_git\natural-initial-demo-project\TESTLIB\Testing-Suites\SUBPRO5.nattst</path>
+    </FileBasedUnitTestHistoryItem>
+  </children>
+</UnitTestHistoryRoot>
